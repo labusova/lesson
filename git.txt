@@ -1,3 +1,5 @@
 Hello
 
 Commiting changes is very important.
+
+Because they show in the log.
